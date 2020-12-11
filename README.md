@@ -3,9 +3,9 @@
 ## MarioGANBC
 
 <div class="videoImageContainer" align="center">
-<a align="center"> <iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" width="640" height="480" frameborder="0"></iframe> </a>
-<a align="center"><iframe src="https://drive.google.com/file/d/1Mi6iD7TbRs1pC-FpTyiyy8O0bnoTao7m/preview" width="640" height="480"></iframe> </a>
-<a align="center"> <b>0 Upper Tiles, 11 Enemies</b> </a>
+<a> <iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1Mi6iD7TbRs1pC-FpTyiyy8O0bnoTao7m/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>0 Upper Tiles, 11 Enemies</b> </p>
 </div>
 
 
