@@ -2,11 +2,9 @@
 
 ## MarioGANBC
 
-<div class="videoImageContainer">
-<p align="center"> <iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" width="640" height="480" frameborder="0"></iframe> </p>
-<p align="center"><iframe src="https://drive.google.com/file/d/1Mi6iD7TbRs1pC-FpTyiyy8O0bnoTao7m/preview" width="640" height="480"></iframe> </p>
-<p align="center"><b>0 Upper Tiles, 11 Enemies</b> </p>
-</div>
+<a align="center"> <iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" width="640" height="480" frameborder="0"></iframe> </a>
+<a align="center"><iframe src="https://drive.google.com/file/d/1Mi6iD7TbRs1pC-FpTyiyy8O0bnoTao7m/preview" width="640" height="480"></iframe> </a>
+<a align="center"><b>0 Upper Tiles, 11 Enemies</b> </a>
 
 
 
