@@ -2,9 +2,8 @@
 
 ## MarioGANBC
 
-<div class="embed-container">
-<iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" width="480" height="480" frameborder="0"></iframe>
-</div>
+<iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" width="640" height="480" frameborder="0"></iframe>
+
 
 
 
