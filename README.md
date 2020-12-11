@@ -2,7 +2,9 @@
 
 ## MarioGANBC
 
-<iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" width="240" height="240" frameborder="0"></iframe>
+<div class="embed-container">
+<iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" width="480" height="480" frameborder="0"></iframe>
+</div>
 
 
 
