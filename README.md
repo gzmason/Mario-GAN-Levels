@@ -77,37 +77,91 @@
 <a><iframe src="https://drive.google.com/file/d/1ldeVW-wJuGq7p1hLU8OiRTbqXby6KHdB/preview" width="480" height="240"></iframe> </a>
 <p align="center"> <b>93 Upper Tiles, 3 Enemies</b> </p>
 </div>
+<br>
+
+
+## KLBC
+
+<p align="center">
+    <iframe src="https://drive.google.com/file/d/1bj9F8TB4srzHU2rKt7OgTBE2E4KUzsoa/preview" width="640" height="240"></iframe>
+</p>
+<p align="center">
+    <iframe src="https://drive.google.com/file/d/1dAP_zvqUTLBRZrfWAwowihes5kirNTub/preview" width="640" height="240"></iframe>
+</p>
+<p align="center"><b> The Two Original Mario Levels Used for KLBC Evaluation</b></p>
+
+
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1OIR4ZTAXqiP8W5ME82lOy6DET6iNNp8r/preview" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1pK7w4em1C1PuB7obqg-9klEVgHuy6A_i/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 0.06, 3.47</b> </p>
+  
+  
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1bsjc394HXml7ypwma2zbxo7LYnzUR4zX/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1ONeqRKF7Ap9MyjYRC_koPKCsjFExs8xW/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 0.53, 1.95</b> </p>
+  
+
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1EkFAmh0ulNfc2V8mGbBSpEEMspYZnbTt/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1LkkZ9edjojUg8_6dNGYiKwcjRwsglLnc/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 0.55, 3.90</b> </p>  
+  
+  
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1RD212NrIuzdDLi6ngoqZmnLRS2_iGm23/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/13eHUveOtM5qmbKqVWnJ3ejMl9__qUWbl/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 0.77, 1.17</b> </p>    
+  
+  
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1VDkUlsw6Gzxrbsz1GSYVeURjXYZ_chXw/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1UCKpy06pVDMfbyNlG6YMEpBFSd2ts1og/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 0.98, 0.74</b> </p>
+  
+  
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1sYQnXhTDDyEZVKe66Qqemw-Md5PFMCFs/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1Sn2uXND5PjZeq1l2yv1_0x7APMQ44MwB/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 1.03, 3.73</b> </p>  
+  
+  
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1UciY-eCNRs3daDp5bA7apoBjDxrzdGvi/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1fa4J6R35jm8BdsAEhUAAbRVPYNP66Oeo/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 1.12, 1.03</b> </p> 
+  
+  
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/18NKmLMBFEV6IW7IqCH0KA-cdx8CoVReF/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1wHaTa6Lh_RTkoO2Z0_IyGZwHzGhd_VJs/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 1.24, 0.54</b> </p> 
+  
+  
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1uj05N0u0DrgwVdZXuJIdgftsv9sCN7QQ/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1Ziu6y_SY9qogUeLCEbW4XfzJJKJmqS3O/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 1.59, 0.25</b> </p> 
+  
+
+<br>
+<div class="videoImageContainer" align="center">
+<a> <iframe src="https://drive.google.com/file/d/1N1CkYOKrb7rgJptBFc5VvnEK8X5yTC2W/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
+<a><iframe src="https://drive.google.com/file/d/1jWTHOJWpdqcSp3TymT76iAdsiz-Ux-q7/preview" width="480" height="240"></iframe> </a>
+<p align="center"> <b>KL-Divergence: 2.23, 0.21</b> </p> 
 
 
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gzmason/Mario-GAN-Levels/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
