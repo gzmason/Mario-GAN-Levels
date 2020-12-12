@@ -1,6 +1,20 @@
+# Archives of Elites and Generated Scenes
+
+## KL-Divergence Behavior Characterstics
+
+<p align="center">
+    <iframe src="https://drive.google.com/file/d/1bj9F8TB4srzHU2rKt7OgTBE2E4KUzsoa/preview" width="640" height="240"></iframe>
+</p>
+<p align="center">
+    <iframe src="https://drive.google.com/file/d/1dAP_zvqUTLBRZrfWAwowihes5kirNTub/preview" width="640" height="240"></iframe>
+</p>
+<p align="center"><b> The Two Groundtruth Levels Used for KLBC Evaluations</b></p>
+
+
+
 # User Study Levels
 
-## MarioGANBC
+## Representation-Based Behavior Characteristics
 
 <div class="videoImageContainer" align="center">
 <a> <iframe src="https://drive.google.com/file/d/19ZtnZSz8IBsHlLpDMTZSb2Fhqx6ZDLEm/preview" allowfullscreen="allowfullscreen" width="320" height="240" frameborder="0"></iframe> </a>
@@ -80,16 +94,7 @@
 <br>
 
 
-## KLBC
-
-<p align="center">
-    <iframe src="https://drive.google.com/file/d/1bj9F8TB4srzHU2rKt7OgTBE2E4KUzsoa/preview" width="640" height="240"></iframe>
-</p>
-<p align="center">
-    <iframe src="https://drive.google.com/file/d/1dAP_zvqUTLBRZrfWAwowihes5kirNTub/preview" width="640" height="240"></iframe>
-</p>
-<p align="center"><b> The Two Original Mario Levels Used for KLBC Evaluation</b></p>
-
+## KL-Divergence Behavior Characteristics
 
 <br>
 <div class="videoImageContainer" align="center">
@@ -161,8 +166,8 @@
 <p align="center"> <b>KL-Divergence: 2.23, 0.21</b> </p> 
 
 
+#Maps
 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
