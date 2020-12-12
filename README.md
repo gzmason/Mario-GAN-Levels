@@ -19,21 +19,30 @@
 
 <table border="0">
   <tr>
-    <td>Large KL-1</td>
-    <td><img style="margin: 0 auto;" src="figures/maxBC1minBC2.png" width=200></td>
-    <td><img style="margin: 0 auto;" src="figures/maxBC1maxBC2.png" width=200></td>
+    <td align="center" >Large KL-1</td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/maxBC1minBC2.png" width=300 height=100></td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/maxBC1maxBC2.png" width=300 height=100></td>
   </tr>
   <tr>
-    <td>Small KL-1</td>
-    <td><img style="margin: 0 auto;" src="figures/minBC1minBC2.png" width=200></td>
-    <td><img style="margin: 0 auto;" src="figures/minBC1maxBC2.png" width=200></td>
+    <td align="center">Small KL-1</td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/minBC1minBC2.png" width=300 height=100></td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/minBC1maxBC2.png" width=300 height=100></td>
   </tr>
   <tr>
     <td></td>
-    <td>Small KL-2</td>
-    <td>Large KL-2</td>
+    <td align="center">Small KL-2</td>
+    <td align="center">Large KL-2</td>
   </tr>
 </table>
+<p align="center"><b> Representative Generated Levels using CMA-ME for KL-BC</b></p>
+<br>
+
+## Agent-Based Behavior Characteristics
+<p align="center">
+    <img style="margin: 0 auto;" src="figures/min8Binary.png" width=350> <img src="figures/maxx8Binary.png" width=350>
+</p>
+<p align="center"><b> Generated Levels with Minimum (Left) and Maximum (Right) Sum Value of the 8 Agent-Based BCs</b></p>
+<br>
 
 
 
