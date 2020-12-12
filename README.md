@@ -1,5 +1,14 @@
 # Archives of Elites and Generated Scenes
 
+## Representation-Based Behavior Characteristics
+
+<p align="center">
+    <img style="margin: 0 auto;" src="figures/MarioGAN-CMAME.png" width=750 height=750> 
+</p>
+<p align="center"><b> Archives of Elites and Example Levels on Representation-Based BC using CMA-ME</b></p>
+<br>
+
+
 ## KL-Divergence Behavior Characterstics
 
 <p align="center">
@@ -8,7 +17,41 @@
 <p align="center">
     <iframe src="https://drive.google.com/file/d/1dAP_zvqUTLBRZrfWAwowihes5kirNTub/preview" width="640" height="240"></iframe>
 </p>
-<p align="center"><b> The Two Groundtruth Levels Used for KLBC Evaluations</b></p>
+<p align="center"><b> The Two Groundtruth Levels Used for KLBC Evaluations (Upper: Level 1, Lower: Level 2)</b></p>
+
+<br>
+<p align="center">
+    <img style="margin: 0 auto;" src="figures/KL_map_MAP-Elites-1.png" width=250> <img src="figures/KL_map_CMA-ES-1.png" width=250> <img src="figures/KL_map_CMA-ME-1.png" width=250>
+</p>
+<p align="center"><b> Archives of Elites on KL-Divergence BC using Different Algorithms</b></p>
+<br>
+
+<table border="0">
+  <tr>
+    <td align="center" >Large KL-1</td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/maxBC1minBC2.png" width=300 height=100></td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/maxBC1maxBC2.png" width=300 height=100></td>
+  </tr>
+  <tr>
+    <td align="center">Small KL-1</td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/minBC1minBC2.png" width=300 height=100></td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/minBC1maxBC2.png" width=300 height=100></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center">Small KL-2</td>
+    <td align="center">Large KL-2</td>
+  </tr>
+</table>
+<p align="center"><b> Representative Generated Levels using CMA-ME for KL-BC</b></p>
+<br>
+
+## Agent-Based Behavior Characteristics
+<p align="center">
+    <img style="margin: 0 auto;" src="figures/min8Binary.png" width=375> &emsp; <img src="figures/max8Binary.png" width=375>
+</p>
+<p align="center"><b> Generated Levels with Minimum (Left) and Maximum (Right) Sum Value of the 8 Agent-Based BCs</b></p>
+<br>
 
 
 
