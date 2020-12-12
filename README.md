@@ -3,9 +3,29 @@
 ## Representation-Based Behavior Characteristics
 
 <p align="center">
-    <img style="margin: 0 auto;" src="figures/MarioGAN-CMAME.png" width=750 height=750> 
+    <img style="margin: 0 auto;" src="figures/MarioGAN-CMAME.png" width=350 height=350> 
 </p>
 <p align="center"><b> Archives of Elites and Example Levels on Representation-Based BC using CMA-ME</b></p>
+<br>
+
+<table border="0">
+  <tr>
+    <td align="center" >Large Number of High Tile</td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/maxBC1minBC2mariogan.png" width=300 height=100></td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/maxBC1maxBC2mariogan.png" width=300 height=100></td>
+  </tr>
+  <tr>
+    <td align="center">Small Number of High Tile</td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/minBC1minBC2mariogan.png" width=300 height=100></td>
+    <td align="center"><img style="margin: 0 auto;" src="figures/minBC1maxBC2mariogan.png" width=300 height=100></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center">Small Number of Enemies</td>
+    <td align="center">Large Number of Enemies</td>
+  </tr>
+</table>
+<p align="center"><b> Representative Generated Levels using CMA-ME for Representation-Based BC</b></p>
 <br>
 
 
