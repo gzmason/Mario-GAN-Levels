@@ -1,5 +1,14 @@
 # Archives of Elites and Generated Scenes
 
+## Representation-Based Behavior Characteristics
+
+<p align="center">
+    <img style="margin: 0 auto;" src="figures/KL_map_MAP-Elites-1.png" width=250> <img src="figures/KL_map_CMA-ES-1.png" width=250> <img src="figures/KL_map_CMA-ME-1.png" width=250>
+</p>
+<p align="center"><b> Archives of Elites on KL-Divergence BC using Different Algorithms</b></p>
+<br>
+
+
 ## KL-Divergence Behavior Characterstics
 
 <p align="center">
@@ -39,7 +48,7 @@
 
 ## Agent-Based Behavior Characteristics
 <p align="center">
-    <img style="margin: 0 auto;" src="figures/min8Binary.png" width=350> <img src="figures/max8Binary.png" width=350>
+    <img style="margin: 0 auto;" src="figures/min8Binary.png" width=375> &emsp; <img src="figures/max8Binary.png" width=375>
 </p>
 <p align="center"><b> Generated Levels with Minimum (Left) and Maximum (Right) Sum Value of the 8 Agent-Based BCs</b></p>
 <br>
