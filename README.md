@@ -3,9 +3,9 @@
 ## Representation-Based Behavior Characteristics
 
 <p align="center">
-    <img style="margin: 0 auto;" src="figures/KL_map_MAP-Elites-1.png" width=250> <img src="figures/KL_map_CMA-ES-1.png" width=250> <img src="figures/KL_map_CMA-ME-1.png" width=250>
+    <img style="margin: 0 auto;" src="figures/MarioGAN-CMAME.png" width=750 height=750> 
 </p>
-<p align="center"><b> Archives of Elites on KL-Divergence BC using Different Algorithms</b></p>
+<p align="center"><b> Archives of Elites and Example Levels on Representation-Based BC using CMA-ME</b></p>
 <br>
 
 
