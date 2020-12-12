@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-    <img style="margin: 0 auto;" src="figures/KL_map_MAP-Elites-1.png" width=300> <img src="figures/KL_map_CMA-ES-1.png" width=300> <img src="figures/KL_map_CMA-ME-1.png" width=300>
+    <img style="margin: 0 auto;" src="figures/KL_map_MAP-Elites-1.png" width=250> <img src="figures/KL_map_CMA-ES-1.png" width=250> <img src="figures/KL_map_CMA-ME-1.png" width=250>
 </p>
 <p align="center"><b> Archives of Elites on KL-Divergence BC using Different Algorithms</b></p>
 <br>
