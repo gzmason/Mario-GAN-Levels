@@ -8,7 +8,7 @@
 <p align="center">
     <iframe src="https://drive.google.com/file/d/1dAP_zvqUTLBRZrfWAwowihes5kirNTub/preview" width="640" height="240"></iframe>
 </p>
-<p align="center"><b> The Two Groundtruth Levels Used for KLBC Evaluations</b></p>
+<p align="center"><b> The Two Groundtruth Levels Used for KLBC Evaluations (Upper: Level 1, Lower: Level 2)</b></p>
 
 <br>
 <p align="center">
