@@ -17,6 +17,24 @@
 <p align="center"><b> Archives of Elites on KL-Divergence BC using Different Algorithms</b></p>
 <br>
 
+<table border="0">
+  <tr>
+    <td>Large KL-1</td>
+    <td><img style="margin: 0 auto;" src="figures/maxBC1minBC2.png" width=200></td>
+    <td><img style="margin: 0 auto;" src="figures/maxBC1maxBC2.png" width=200></td>
+  </tr>
+  <tr>
+    <td>Small KL-1</td>
+    <td><img style="margin: 0 auto;" src="figures/minBC1minBC2.png" width=200></td>
+    <td><img style="margin: 0 auto;" src="figures/minBC1maxBC2.png" width=200></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Small KL-2</td>
+    <td>Large KL-2</td>
+  </tr>
+</table>
+
 
 
 # User Study Levels
