@@ -39,7 +39,7 @@
 
 ## Agent-Based Behavior Characteristics
 <p align="center">
-    <img style="margin: 0 auto;" src="figures/min8Binary.png" width=350> <img src="figures/maxx8Binary.png" width=350>
+    <img style="margin: 0 auto;" src="figures/min8Binary.png" width=350> <img src="figures/max8Binary.png" width=350>
 </p>
 <p align="center"><b> Generated Levels with Minimum (Left) and Maximum (Right) Sum Value of the 8 Agent-Based BCs</b></p>
 <br>
