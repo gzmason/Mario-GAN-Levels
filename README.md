@@ -228,9 +228,3 @@
 <a><iframe src="https://drive.google.com/file/d/1jWTHOJWpdqcSp3TymT76iAdsiz-Ux-q7/preview" width="480" height="240"></iframe> </a>
 <p align="center"> <b>KL-Divergence: 2.23, 0.21</b> </p> 
 
-
-#Maps
-
-
-
-
